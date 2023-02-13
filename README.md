@@ -30,7 +30,7 @@ The superior performance introduced by deep learning approaches in removing atmo
 
 </p>
 </details>
-  <details><summary> Evaluation metrics/summary>
+  <details><summary> Evaluation metrics</summary>
 <p>
 
   
