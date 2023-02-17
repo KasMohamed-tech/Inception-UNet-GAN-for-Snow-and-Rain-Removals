@@ -18,7 +18,7 @@ The superior performance introduced by deep learning approaches in removing atmo
 ## SVD-based ground truth generation of realistic snow images 
 <details><summary> Realistic Snow Dataset description</summary>
 <p>
-
+ A test subset that shows diverse background scenes (forests, buildings, and streets) with different snow densities are constructed. Using the aforementioned groundtruth generation scheme, we generate 83 pairs of snowy images of size $960 \times 540$ along with their corresponding groundtruth images. 
 
 </p>
 </details>
