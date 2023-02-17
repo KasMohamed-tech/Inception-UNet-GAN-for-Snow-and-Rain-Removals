@@ -29,13 +29,7 @@ The superior performance introduced by deep learning approaches in removing atmo
   link : https://drive.utbm.fr/s/CJTsFZgGqMMCRin
 
 </p>
-</details>
-  <details><summary> Evaluation metrics</summary>
-<p>
 
-  
-
-</p>
-</details>
     
 ## Proposed framework 
+Coming soon
