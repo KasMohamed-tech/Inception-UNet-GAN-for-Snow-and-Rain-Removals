@@ -2,7 +2,7 @@
 
 Ibrahim Kajo · Mohamed Kas · Yassine Ruichek · Nidal Kamel
 
-Published in International Journal of Computer Vision 
+Submitted to International Journal of Computer Vision 
 
 Paper link: 
 ##
